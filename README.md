@@ -4,7 +4,7 @@
 **Vibe Matcher** is a prototype recommendation system that matches a user’s *vibe query* (like “urban chic” or “cozy casual”) with fashion products based on their descriptions.  
 It uses **OpenAI embeddings** and **cosine similarity** to find the top 3 products that best fit the vibe.  
 
----
+--- 
 
 ## 🧠 How It Works  
 1. **Data Preparation:**  
