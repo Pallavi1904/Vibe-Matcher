@@ -5,7 +5,7 @@
 It uses **OpenAI embeddings** and **cosine similarity** to find the top 3 products that best fit the vibe.   
 
 ---      
-
+  
 ## 🧠 How It Works    
 1. **Data Preparation:**  
    A small dataset (5–10 mock fashion products) with names, descriptions, and vibe tags is created using Pandas.  
